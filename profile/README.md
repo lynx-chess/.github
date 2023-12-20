@@ -14,3 +14,4 @@
 | [texel-tuner](https://github.com/lynx-chess/texel-tuner) | Fork of [GediminasMasaitis/texel-tuner](https://github.com/GediminasMasaitis/texel-tuner), used to tune Lynx PSQT | GPL-3.0 |
 | [WDL_model](https://github.com/lynx-chess/WDL_model) | Fork of [official-stockfish/WDL_model](https://github.com/official-stockfish/WDL_model), used to normailze Lynx eval | GPL-3.0 |
 | [OpenBench](https://github.com/lynx-chess/OpenBench) | Fork of [AndyGrant/OpenBench](https://github.com/AndyGrant/OpenBench), used to facilitate engine testing | GPL-3.0 |
+| [lynx-utils](https://github.com/lynx-chess/lynx-utils/) | My setup for local testing | MIT |
